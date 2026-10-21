@@ -1,4 +1,4 @@
-# FinShield AI – Payment Fraud Detection & AML Platform Foundation
+# FinShield AI – Payment Fraud Detection & ANTI MONEY LANUDERING Platform Foundation
 
 FinShield AI is an enterprise-grade Real-Time Payment Fraud Detection and Anti-Money Laundering (AML) monitoring platform. This repository contains the complete, production-grade foundation of the platform built with **FastAPI** (Python 3.12), **Next.js 15** (TypeScript, TailwindCSS, shadcn/ui), and **PostgreSQL**.
 
